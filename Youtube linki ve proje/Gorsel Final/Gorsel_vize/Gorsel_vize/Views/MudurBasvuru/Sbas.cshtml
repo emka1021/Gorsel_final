@@ -1,0 +1,84 @@
+﻿
+@{
+    ViewBag.Title = "Sbas";
+    Layout = "~/Views/Shared/View.cshtml";
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>İşçi Başvuru Formu</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            padding: 20px;
+        }
+
+        .form-group {
+            max-width: 400px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+
+            .form-group label {
+                font-weight: bold;
+                display: block;
+                margin-bottom: 5px;
+            }
+
+            .form-group input[type="text"],
+            .form-group input[type="password"] {
+                width: calc(100% - 20px);
+                padding: 10px;
+                margin-bottom: 10px;
+                font-size: 16px;
+                border: 1px solid #ccc;
+                border-radius: 4px;
+                box-sizing: border-box;
+            }
+
+            .form-group button {
+                background-color: #007bff;
+                color: white;
+                padding: 10px 20px;
+                border: none;
+                border-radius: 4px;
+                cursor: pointer;
+                font-size: 16px;
+            }
+
+                .form-group button:hover {
+                    background-color: #0056b3;
+                }
+    </style>
+</head>
+<body>
+    <div class="form-group">
+        <h2>Stajyer Kayıt Formu</h2>
+        <form method="post">
+            <div>
+                <label for="sbas_ad">Adı:</label>
+                <input type="text" id="sbas_ad" name="ibas_ad" required>
+            </div>
+            <div>
+                <label for="sbas_kulad">Kullanıcı Adı:</label>
+                <input type="text" id="sbas_kulad" name="ibas_kulad" required>
+            </div>
+            <div>
+                <label for="sbas_sifre">Şifre:</label>
+                <input type="password" id="sbas_sifre" name="ibas_sifre" required>
+            </div>
+            <div>
+                <button type="submit">Başvur</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+

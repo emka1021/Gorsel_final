@@ -1,0 +1,26 @@
+﻿@model Gorsel_vize.Models.Entity.tbl_stajyer
+@{
+    ViewBag.Title = "Guncelle";
+    Layout = "~/Views/Shared/View.cshtml";
+}
+
+@using (Html.BeginForm("Guncelle1", "Yetkili", FormMethod.Post))
+{
+    <div class="form-group">
+        @Html.LabelFor(m => m.sid)
+        @Html.TextBoxFor(m => m.sid, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.stajyer_ad)
+        @Html.TextBoxFor(m => m.stajyer_ad, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.stajyer_kullanıcıad)
+        @Html.TextBoxFor(m => m.stajyer_kullanıcıad, new { @class = "form-control" })
+        <br />
+        @Html.LabelFor(m => m.stajyer_sifre)    
+        @Html.TextBoxFor(m => m.stajyer_sifre, new { @class = "form-control" })
+
+    </div>
+    <div>
+        <button class="btn btn-warning">Güncelle</button>
+    </div>
+}

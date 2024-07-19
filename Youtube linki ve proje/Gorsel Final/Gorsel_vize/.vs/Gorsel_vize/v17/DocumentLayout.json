@@ -1,0 +1,1208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|c:\\users\\06emk\\source\\repos\\gorsel_vize\\gorsel_vize\\views\\isci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\isci\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\stajyer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\stajyer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurogrenci\\ogrencibilgi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurogrenci\\ogrencibilgi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\ogrenci\\ogrencibilgi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\ogrenci\\ogrencibilgi.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\ogrenci\\yenktegori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\ogrenci\\yenktegori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurogrenci\\yenktegori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurogrenci\\yenktegori.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurstajyer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurstajyer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurogrenci\\mezunet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurogrenci\\mezunet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurogretmen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurogretmen\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\mudurogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\mudurogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\mudurogretmencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\mudurogretmencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurogretmen\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurogretmen\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\muduridare\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\muduridare\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\muduridare\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\muduridare\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\shared\\view.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\shared\\mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\shared\\mainlayout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\iscigiris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\iscigiris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\shared\\isci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\shared\\isci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\shared\\stajyer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\shared\\stajyer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\personelgiris\\personel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\personelgiris\\personel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\personelgiris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\personelgiris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\rapor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\rapor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\ogrencicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\personel\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\personel\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\personel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\shared\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurogrenci\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurogrenci\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\akademi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\akademi\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\basvuru\\iscibasvuru.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\basvuru\\iscibasvuru.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\akademi\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\akademi\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\muduridare\\isci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\muduridare\\isci.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\muduridarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\muduridarecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\muduridare\\stajyer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\muduridare\\stajyer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\iscigiriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\iscigiriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\stajyergiris\\stajyer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\stajyergiris\\stajyer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\stajyer\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\stajyer\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\stajyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\stajyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\akademicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\akademicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\iscicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\iscicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\stajyer\\rapor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\stajyer\\rapor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\stajyergiris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\stajyergiris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurgiris\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurgiris\\giris.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurgiris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurgiris\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\basvuru\\stajbasvuru.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\basvuru\\stajbasvuru.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\stajyergiriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\stajyergiriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\idaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\idaricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\personelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\raporcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\raporcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\mudurgiriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\mudurgiriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\models\\entity\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurbasvuru\\sbas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurbasvuru\\sbas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurbasvuru\\ibas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurbasvuru\\ibas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\idari\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\idari\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurbasvuru\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurbasvuru\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\mudurbasvurucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\mudurbasvurucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\basvurucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\basvurucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\yetkilibasvurucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\yetkilibasvurucontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\basvuru\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\basvuru\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\idari\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\idari\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\personelgiriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\personelgiriscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\idari\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\idari\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\muduridare\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\muduridare\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\mudurstajyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\mudurstajyercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurstajyer\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurstajyer\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurstajyer\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurstajyer\\ekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\personel\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\personel\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurrapor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurrapor\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\controllers\\mudurraporcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\controllers\\mudurraporcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\mudurrapor\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\mudurrapor\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\ogrenci\\mezuntet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\ogrenci\\mezuntet.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\gorsel_vize\\views\\ogrenci\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A09A5857-9049-4070-8486-AC8BAE02522F}|Gorsel_vize\\Gorsel_vize.csproj|solutionrelative:gorsel_vize\\views\\ogrenci\\guncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OgrenciBilgi.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurOgrenci\\OgrenciBilgi.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurOgrenci\\OgrenciBilgi.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurOgrenci\\OgrenciBilgi.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurOgrenci\\OgrenciBilgi.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:48:45.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OgrenciBilgi.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Ogrenci\\OgrenciBilgi.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Ogrenci\\OgrenciBilgi.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Ogrenci\\OgrenciBilgi.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Ogrenci\\OgrenciBilgi.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:49:56.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YenKtegori.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurOgrenci\\YenKtegori.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurOgrenci\\YenKtegori.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurOgrenci\\YenKtegori.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurOgrenci\\YenKtegori.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:49:04.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MezunEt.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurOgrenci\\MezunEt.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurOgrenci\\MezunEt.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurOgrenci\\MezunEt.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurOgrenci\\MezunEt.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:48:42.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YenKtegori.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Ogrenci\\YenKtegori.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Ogrenci\\YenKtegori.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Ogrenci\\YenKtegori.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Ogrenci\\YenKtegori.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T19:33:41.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurStajyer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurStajyer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurStajyer\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurStajyer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T19:28:23.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Stajyer\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Stajyer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Stajyer\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Stajyer\\Index.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAACIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T18:58:46.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Isci\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Isci\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Isci\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Isci\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T15:11:39.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurOgretmen\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurOgretmen\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurOgretmen\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurOgretmen\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:49:10.629Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MudurOgrenciController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\MudurOgrenciController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\MudurOgrenciController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\MudurOgrenciController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\MudurOgrenciController.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAswDYAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:07:54.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MudurOgretmenController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\MudurOgretmenController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\MudurOgretmenController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\MudurOgretmenController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\MudurOgretmenController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwDUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:05:46.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurOgretmen\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurOgretmen\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurOgretmen\\Guncelle.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurOgretmen\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T18:04:46.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurIdare\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurIdare\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurIdare\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurIdare\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:48:20.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurIdare\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurIdare\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurIdare\\Guncelle.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurIdare\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:50:22.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "View.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Shared\\View.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Shared\\View.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Shared\\View.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Shared\\View.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:52:14.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainLayout.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Shared\\MainLayout.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Shared\\MainLayout.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Shared\\MainLayout.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Shared\\MainLayout.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T20:24:56.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\IsciGiris\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\IsciGiris\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\IsciGiris\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\IsciGiris\\Index.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T15:29:24.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Isci.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Shared\\Isci.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Shared\\Isci.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Shared\\Isci.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Shared\\Isci.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T15:31:54.636Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Stajyer.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Shared\\Stajyer.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Shared\\Stajyer.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Shared\\Stajyer.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Shared\\Stajyer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T18:08:06.78Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Personel.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\PersonelGiris\\Personel.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\PersonelGiris\\Personel.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\PersonelGiris\\Personel.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\PersonelGiris\\Personel.cshtml",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAFkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:50:30.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\PersonelGiris\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\PersonelGiris\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\PersonelGiris\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\PersonelGiris\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:50:26.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Rapor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Rapor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Rapor\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Rapor\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:50:40.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "OgrenciController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\OgrenciController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\OgrenciController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\OgrenciController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\OgrenciController.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswEAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T16:21:46.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Personel\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Personel\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Personel\\Ekle.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Personel\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:22:39.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Personel\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Personel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Personel\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Personel\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:50:05.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Shared\\Login.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Shared\\Login.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Shared\\Login.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Shared\\Login.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:08:05.431Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:08:10.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurOgrenci\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurOgrenci\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurOgrenci\\Guncelle.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurOgrenci\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:48:40.927Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Akademi\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Akademi\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Akademi\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Akademi\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T20:34:37.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IsciBasvuru.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Basvuru\\IsciBasvuru.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Basvuru\\IsciBasvuru.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Basvuru\\IsciBasvuru.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Basvuru\\IsciBasvuru.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T21:07:19.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Akademi\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Akademi\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Akademi\\Guncelle.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Akademi\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:54:08.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Isci.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurIdare\\Isci.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurIdare\\Isci.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurIdare\\Isci.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurIdare\\Isci.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T15:54:38.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MudurIdareController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\MudurIdareController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\MudurIdareController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\MudurIdareController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\MudurIdareController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAkwDsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:53:30.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Stajyer.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurIdare\\Stajyer.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurIdare\\Stajyer.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurIdare\\Stajyer.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurIdare\\Stajyer.cshtml",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAwBwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T15:50:18.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Stajyer.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\StajyerGiris\\Stajyer.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\StajyerGiris\\Stajyer.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\StajyerGiris\\Stajyer.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\StajyerGiris\\Stajyer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T18:42:54.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Stajyer\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Stajyer\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Stajyer\\Guncelle.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Stajyer\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-12T15:38:16.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IsciGirisController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\IsciGirisController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\IsciGirisController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\IsciGirisController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\IsciGirisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:14:39.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "StajyerController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\StajyerController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\StajyerController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\StajyerController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\StajyerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:06:48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AkademiController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\AkademiController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\AkademiController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\AkademiController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\AkademiController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAgwCYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:20:04.3Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Rapor.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Stajyer\\Rapor.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Stajyer\\Rapor.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Stajyer\\Rapor.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Stajyer\\Rapor.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T19:01:00.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\StajyerGiris\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\StajyerGiris\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\StajyerGiris\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\StajyerGiris\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T18:54:15.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IsciController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\IsciController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\IsciController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\IsciController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\IsciController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-12T15:10:01.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Giris.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Mudurgiris\\Giris.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Mudurgiris\\Giris.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Mudurgiris\\Giris.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Mudurgiris\\Giris.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T20:31:28.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Mudurgiris\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Mudurgiris\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Mudurgiris\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Mudurgiris\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:48:06.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "StajBasvuru.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Basvuru\\StajBasvuru.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Basvuru\\StajBasvuru.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Basvuru\\StajBasvuru.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Basvuru\\StajBasvuru.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T21:07:10.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:14:06.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "StajyerGirisController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\StajyerGirisController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\StajyerGirisController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\StajyerGirisController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\StajyerGirisController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:09:58.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "PersonelController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\PersonelController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\PersonelController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\PersonelController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\PersonelController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAwDkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:20:40.169Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "RaporController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\RaporController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\RaporController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\RaporController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\RaporController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:21:22.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "IdariController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\IdariController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\IdariController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\IdariController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\IdariController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:59:12.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "MudurgirisController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\MudurgirisController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\MudurgirisController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\MudurgirisController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\MudurgirisController.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwBIAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-27T20:31:38.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "Ibas.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurBasvuru\\Ibas.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurBasvuru\\Ibas.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurBasvuru\\Ibas.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurBasvuru\\Ibas.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T22:14:14.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Sbas.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurBasvuru\\Sbas.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurBasvuru\\Sbas.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurBasvuru\\Sbas.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurBasvuru\\Sbas.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAowFQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T22:14:05.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Models\\Entity\\Model1.edmx",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Models\\Entity\\Model1.edmx",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Models\\Entity\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Gorsel_vize\\Models\\Entity\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-07-12T13:57:30.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurBasvuru\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurBasvuru\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurBasvuru\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurBasvuru\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T22:02:24.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "MudurBasvuruController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\MudurBasvuruController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\MudurBasvuruController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\MudurBasvuruController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\MudurBasvuruController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwB4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:01:34.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Idari\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Idari\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Idari\\Guncelle.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Idari\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:54:16.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "YetkiliBasvuruController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\YetkiliBasvuruController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\YetkiliBasvuruController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\YetkiliBasvuruController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\YetkiliBasvuruController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T22:01:56.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "BasvuruController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\BasvuruController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\BasvuruController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\BasvuruController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\BasvuruController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T20:59:04.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Basvuru\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Basvuru\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Basvuru\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Basvuru\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T21:00:39.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Idari\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Idari\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Idari\\Ekle.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Idari\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T21:16:51.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "PersonelGirisController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\PersonelGirisController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\PersonelGirisController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\PersonelGirisController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\PersonelGirisController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBYAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T17:10:17.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Idari\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Idari\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Idari\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Idari\\Index.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:54:14.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurIdare\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurIdare\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurIdare\\Ekle.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurIdare\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:59:47.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "MudurStajyerController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\MudurStajyerController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\MudurStajyerController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\MudurStajyerController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\MudurStajyerController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T19:24:05.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurStajyer\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurStajyer\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurStajyer\\Guncelle.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurStajyer\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T19:29:01.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Ekle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurStajyer\\Ekle.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurStajyer\\Ekle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurStajyer\\Ekle.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurStajyer\\Ekle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T19:28:51.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Personel\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Personel\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Personel\\Guncelle.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Personel\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T17:20:22.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurRapor\\Index.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurRapor\\Index.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurRapor\\Index.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurRapor\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAAB8AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:49:25.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "MudurRaporController.cs",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\MudurRaporController.cs",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Controllers\\MudurRaporController.cs",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Controllers\\MudurRaporController.cs",
+              "RelativeToolTip": "Gorsel_vize\\Controllers\\MudurRaporController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T18:18:45.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurRapor\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\MudurRapor\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\MudurRapor\\Guncelle.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\MudurRapor\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-25T18:04:56.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Web.config",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Web.config",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-06-25T17:14:53.856Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "MezuntEt.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Ogrenci\\MezuntEt.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Ogrenci\\MezuntEt.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Ogrenci\\MezuntEt.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Ogrenci\\MezuntEt.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:49:54.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "Guncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Ogrenci\\Guncelle.cshtml",
+              "RelativeDocumentMoniker": "Gorsel_vize\\Views\\Ogrenci\\Guncelle.cshtml",
+              "ToolTip": "C:\\Users\\06emk\\source\\repos\\Gorsel_vize\\Gorsel_vize\\Views\\Ogrenci\\Guncelle.cshtml",
+              "RelativeToolTip": "Gorsel_vize\\Views\\Ogrenci\\Guncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-27T19:49:53.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

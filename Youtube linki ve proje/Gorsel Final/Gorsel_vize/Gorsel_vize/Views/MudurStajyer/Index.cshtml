@@ -1,0 +1,41 @@
+﻿@using Gorsel_vize.Models.Entity
+@model List<tbl_stajyer>
+
+@{
+    ViewBag.Title = "Stajyer Listesi";
+    Layout = "~/Views/Shared/View.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>Stajyer ID</th>
+        <th>Stajyer Adı</th>
+        <th>Kullanıcı Adı</th>
+        <th>Şifre</th>
+        <th>SİL</th>
+        <th>GÜNCELLE</th>
+    </tr>
+    <tbody>
+        @if (Model != null)
+        {
+            foreach (var ktgr in Model)
+            {
+                <tr>
+                    <td>@ktgr.sid</td>
+                    <td>@ktgr.stajyer_ad</td>
+                    <td>@ktgr.stajyer_kullanıcıad</td>
+                    <td>@ktgr.stajyer_sifre</td>
+                    <td><a href="@Url.Action("SIL", "MudurStajyer", new { id = ktgr.sid })" class="btn btn-danger">SİL</a></td>
+                    <td><a href="@Url.Action("Guncelle", "MudurStajyer", new { id = ktgr.sid })" class="btn btn-success">GÜNCELLE</a></td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="6" class="text-center">Veri bulunamadı.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="@Url.Action("Ekle", "MudurStajyer")" class="btn btn-primary">Yeni Stajyer Ekle</a>

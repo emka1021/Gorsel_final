@@ -1,0 +1,50 @@
+﻿@using Gorsel_vize.Models.Entity
+@model List<tbl_ogrenci>
+@{
+    ViewBag.Title = "OgrenciBilgi";
+    Layout = "~/Views/Shared/MainLayout.cshtml";
+}
+
+
+<table class="table table-bordered">
+    <tr>
+        <th>Stajyer ID</th>
+        <th>Stajyer Adı</th>
+        <th>Görev</th>
+        <th>Görev Durumu</th>
+        <th>Kredi Notu</th>
+        <th>Durum</th>
+        <th>SİL</th>
+        <th>GÜNCELLE</th>
+        <th>İŞE AL</th>
+
+
+    </tr>
+    <tbody>
+        @foreach (var ktgr in Model)
+        {
+            <tr>
+                <td>@ktgr.oid</td>
+                <td>@ktgr.oadı</td>
+                <td>@ktgr.ono</td>
+                <td>@ktgr.obolum</td>
+                <td>
+                    <select>
+                        <option value="yapildi">Yapılmadı</option>
+                        <option value="yapilmadi">Yapıldı</option>
+                    </select>
+                </td>
+                <td>@ktgr.okredi</td>
+
+                <td>@ktgr.odurum</td>
+
+                <td><a href="/OGRENCI/SIL/@ktgr.oid" class="btn btn-danger">SİL</a></td>
+                <td><a href="/OGRENCI/Guncelle/@ktgr.oid" class="btn btn-success">GÜNCELLE</a></td>
+                <td>
+                    @Html.ActionLink("İŞE AL", "MezunEt", "Ogrenci", null, new { @class = "btn btn-primary bg-info" })
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="/Ogrenci/YenKtegori/" class="btn btn-primary">Yeni Stajyer Ekle</a>

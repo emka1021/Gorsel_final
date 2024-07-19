@@ -1,0 +1,27 @@
+﻿
+@{
+    ViewBag.Title = "Isci";
+    Layout = "~/Views/Shared/View.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>İşçi Adı</th>
+        <th>Görev</th>
+        <th>Yapıldı</th>
+    </tr>
+    <tr>
+        <td>Mete</td>
+        <td>Herhangi birgörev</td>
+        <td>
+            <select>
+                <option value="yapildi">Yapılmadı</option>
+                <option value="yapilmadi">Yapıldı</option>
+            </select>Default
+        </td>
+    </tr>
+</table>
+
+<form method="post" action="@Url.Action("Index1", "Isci")">
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>

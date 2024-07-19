@@ -1,0 +1,49 @@
+﻿
+@{
+    ViewBag.Title = "Guncelle";
+    Layout = "~/Views/Shared/Stajyer.cshtml";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Güncelleme Ekranı</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        .form-group {
+            margin-bottom: 1rem;
+        }
+
+        .container {
+            margin-top: 50px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Güncelleme Ekranı</h2>
+        <form>
+            <div class="form-group">
+                <label for="stajyerAdi">Stajyer Adı</label>
+                <input type="text" id="stajyerAdi" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="gorev">Görev</label>
+                <input type="text" id="gorev" class="form-control" />
+            </div>
+            <div class="form-group">
+                <label for="yapildi">Yapıldı</label>
+                <select id="yapildi" class="form-control">
+                    <option value="yapildi">Yapıldı</option>
+                    <option value="yapilmadi">Yapılmadı</option>
+                </select>
+            </div>
+            <div>
+                <button type="button" class="btn btn-warning">Güncelle</button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
+
+}

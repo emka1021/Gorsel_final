@@ -1,0 +1,32 @@
+﻿@using Gorsel_vize.Models.Entity
+@model List<tbl_ogretmenler>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/View.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>İşçi ID</th>
+        <th>İşçi Adı</th>
+        <th>Bölüm</th>
+        <th>Görev</th>
+        <th>SİL</th>
+        <th>GÜNCELLE</th>
+    </tr>
+    <tbody>
+        @foreach (var ktgr in Model)
+        {
+            <tr>
+                <th>@ktgr.ogid</th>
+                <th>@ktgr.ogad</th>
+                <th>@ktgr.ogbolum</th>
+                <th>@ktgr.ogbas</th>
+                <td><a href="/MudurOgretmen/SIL/@ktgr.ogid" class="btn btn-danger">SİL</a></td>
+                <td><a href="/MudurOgretmen/Guncelle/@ktgr.ogid" class="btn btn-success">GÜNCELLE</a></td>
+
+            </tr>
+        }
+    </tbody>
+</table>
+<a href="/MudurOgretmen/Ekle/" class="btn btn-primary">Yeni İşçi Ekle</a>

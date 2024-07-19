@@ -1,0 +1,37 @@
+﻿
+@{
+    ViewBag.Title = "Stajyer";
+    Layout = "~/Views/Shared/View.cshtml";
+}
+
+<table class="table table-bordered">
+    <tr>
+        <th>Stajyer Adı</th>
+        <th>Stajyer Kullanıcı Adı</th>
+        <th>Stajyer Şifre</th>
+        <th>Görev</th>
+        <th>Yapıldı</th>
+        <th>SİL</th>
+        <th>GÜNCELLE</th>
+    </tr>
+    <tr>
+
+        <td>Mete</td>
+        <td>Mete</td>
+        <td>123</td>
+        <td>Herhangi bir stajyer görevi</td>
+        <td>
+            <select>
+                <option value="yapildi">Yapılmadı</option>
+                <option value="yapilmadi">Yapıldı</option>
+            </select>
+        </td>
+        <td><a href="#" class="btn btn-danger">SİL</a></td>
+        <td><a href="#" class="btn btn-success">GÜNCELLE</a></td>
+    </tr>
+</table>
+
+<form method="post" action="@Url.Action("Index1", "Stajyer")">
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>
+
